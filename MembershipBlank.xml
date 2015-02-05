@@ -1,0 +1,252 @@
+element 
+<DemographicRes>
+<Status>
+<StatusCode>StatusCode</StatusCode>
+</Status>
+<memberDemographics>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<dependentInfo>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</dependentInfo>
+<dependentInfo>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</dependentInfo>
+<dependentInfo>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</dependentInfo>
+<dependentInfo>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</dependentInfo>
+<dependentInfo>
+<relationship>relationship</relationship>
+<restriction>restriction</restriction>
+<enrollmentDate>enrollmentDate</enrollmentDate>
+<terminationDate>terminationDate</terminationDate>
+<personInfo>
+<gender>gender</gender>
+<firstName>firstName</firstName>
+<middleName>middleName</middleName>
+<lastName>lastName</lastName>
+<title>title</title>
+<prefix>prefix</prefix>
+<suffix>suffix</suffix>
+<fullName>fullName</fullName>
+<DOB>DOB</DOB>
+<contactInfo>
+<usage>usage</usage>
+<email>
+<domainName>domainName</domainName>
+<emailId>emailId</emailId>
+</email>
+<postAddresses>
+<state>state</state>
+<city>city</city>
+<postCode>postCode</postCode>
+</postAddresses>
+</contactInfo>
+</personInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</dependentInfo>
+<membershipsLinks>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+<_a accessTokenType="accessTokenType" href="href" resource="resource">
+</_a>
+</membershipsLinks>
+</memberDemographics>
+</DemographicRes>
